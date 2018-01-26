@@ -3,6 +3,8 @@ this is my shared canvas repo
 
 I worked with sarah jordan and nikita but didnt understand much so i decided to do it on my own again
 
+![coding picture](https://github.com/JNGUY5/JasonPhotos/blob/master/Screen%20Shot%202018-01-23%20at%205.13.29%20PM.png)
+
 
 Here is what i learned
 
